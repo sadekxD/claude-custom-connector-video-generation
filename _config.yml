@@ -1,5 +1,6 @@
-title: "How to Add a Claude Custom Connector for Video Generation (Step-by-Step, 2026)"
+title: "How to Add a Claude Custom Connector for Video Generation"
 description: "Add a Claude custom connector for video generation in two minutes: what an MCP connector is, setup steps, first prompts, and troubleshooting."
+tagline: "Step-by-Step Guide (2026)"
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
